@@ -1,16 +1,16 @@
 # Artificial Intelligence – Fall 2025  
 
 📌 **Course Repository** for Artificial Intelligence (Fall 2025) at **Sitare University**.  
-Faculty: [Dr. Arun Chauhan](mailto:arun@sitare.org), [Dr. Alapan](mailto:alapan@sitare.org)  
+Faculty: [Dr. Arun Chauhan](mailto:arun@sitare.org)
 
 ---
 
 ## 📖 Course Information
-- **Credits:** 4 (3-0-2)  
+- **Credits:** 4 
 - **Class Schedule:**  
-  - Monday: 1:00–1:55 PM, 2:00–2:55 PM  
-  - Tuesday: 3:00–3:55 PM, 4:00–4:55 PM  
-- **Office Hours:** 3:00–3:55 PM  
+  - Monday: 1:30–2:25 PM, 2:30–3:25 PM  
+  - Tuesday: 3:30–4:25 PM, 4:30–5:25 PM  
+- **Office Hours:** 3:30–4:25 PM  
 
 ---
 
@@ -18,15 +18,6 @@ Faculty: [Dr. Arun Chauhan](mailto:arun@sitare.org), [Dr. Alapan](mailto:alapan@
 - Learn foundational & modern AI algorithms for intelligent systems.  
 - Understand strengths and limitations of AI approaches.  
 - Gain practical coding skills in AI & apply to real-world problems.  
-
----
-
-## 🗂 Repository Structure
-- `Assignments/` → Weekly assignments (with solutions).  
-- `CodingTasks/` → In-class and practice coding tasks.  
-- `Projects/` → Larger AI projects & prototypes.  
-- `Notes/` → Weekly notes and explanations.  
-- `Resources/` → Papers, datasets, references.  
 
 ---
 
@@ -54,8 +45,3 @@ Faculty: [Dr. Arun Chauhan](mailto:arun@sitare.org), [Dr. Alapan](mailto:alapan@
 - End-Term (50 marks)  
 
 ---
-
-## 🚀 How to Use
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/Artificial-Intelligence-Fall-2025.git

@@ -1,7 +1,7 @@
 # Artificial Intelligence – Fall 2025  
 
 📌 **Course Repository** for Artificial Intelligence (Fall 2025) at **Sitare University**.  
-Faculty: [Dr. Arun Chauhan](mailto:arun@sitare.org)
+Faculty: [Dr. Arun Chauhan](https://github.com/aruntakhur)
 
 ---
 

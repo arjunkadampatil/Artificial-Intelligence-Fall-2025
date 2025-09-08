@@ -10,7 +10,7 @@ Faculty: [Dr. Arun Chauhan](mailto:arun@sitare.org)
 - **Class Schedule:**  
   - Monday: 1:30–2:25 PM, 2:30–3:25 PM  
   - Tuesday: 3:30–4:25 PM, 4:30–5:25 PM  
-- **Office Hours:** 3:30–4:25 PM  
+- **Office Hours:** Monday: 3:30–4:25 PM  
 
 ---
 

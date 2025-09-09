@@ -1,0 +1,17 @@
+Graph Evaluation Format
+
+The evaluation of graph traversal tasks is based on:
+1. Correctness of BFS implementation
+2. Correctness of DFS implementation
+3. Comparison and explanation of differences between BFS and DFS
+4. Application of BFS for shortest path problems
+5. Code readability and simplicity
+6. Use of comments and clarity of explanation
+7. Visualization of graph structure and traversal
+
+Marks Distribution:
+- BFS Implementation: 20%
+- DFS Implementation: 20%
+- BFS vs DFS Comparison: 20%
+- Shortest Path BFS: 20%
+- Code Style and Documentation: 20%

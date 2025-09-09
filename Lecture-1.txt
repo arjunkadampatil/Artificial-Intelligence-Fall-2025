@@ -1,0 +1,20 @@
+Lecture 1: Introduction to Graph Search
+
+In this lecture, we begin with the basics of graph traversal.
+We focus on two important algorithms:
+1. Breadth First Search (BFS)
+2. Depth First Search (DFS)
+
+Key Points:
+- Graphs can be represented using adjacency lists or adjacency matrices.
+- BFS uses a queue (FIFO) to explore nodes level by level.
+- DFS uses recursion or a stack (LIFO) to go deep before backtracking.
+- Both algorithms are fundamental for exploring paths, connectivity, and solving shortest path problems in unweighted graphs.
+
+This lecture introduces practical coding tasks:
+- Implement BFS and DFS
+- Compare traversal orders
+- Visualize graph structures
+- Apply BFS for shortest path in an unweighted graph
+
+End of Lecture 1 Notes
